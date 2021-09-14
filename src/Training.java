@@ -32,14 +32,29 @@
 //            if (count <= 0){
 //                System.out.println("");
 //            }
-          Sy
-        }
-  }
-1111111111111111111111111
 
-Hello Water Company
-333333333333333333333333333333333333333333333333333333333
+        // Kiểm tra số nguyên tố
 
-testsssssssssssssss
+//        int number = 157;
+//        if (number <= 1) {
+//            System.out.println("Không phải là số nguyên tố");
+//        } else {
+//            int count = 0;
+//            for (int i = 2; i <= 1000; i++) {
+//               if (number % 3 == 1) {
+//                    count++;
+//                }
+//           }
+//            if (count <= 0) {
+//                System.out.println("Số " + number + " là số nguyên tố");
+//            } else {
+//                System.out.println("Số " + number + " không phải là số nguyên tố");
+//            }
+//        }
+        //ina các số chia 3 dư 1
+//       for (int = 1; i <= 1000; i++) {
+//        if (i % 3 == 1) { }
+//        }
 //}
-//
+
+

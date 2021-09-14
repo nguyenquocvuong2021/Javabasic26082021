@@ -269,21 +269,29 @@ public class Buoi1 {
 //
 //         7 : Vòng lặp while
 //
-       int max = 100;
-        int i = 1;
-        long start = System.currentTimeMillis();
-        while (i <= max) {
-            if (i % 2 == 0) {
-                System.out.println(i);
-            }
-            i++;
-        }
-       long end = System.currentTimeMillis();
-       long result = end - start;
-        System.out.println("Thời gian " + result);
+//       int max = 100;
+//        int i = 1;
+//        long start = System.currentTimeMillis();
+//        while (i <= max) {
+//            if (i % 2 == 0) {
+//                System.out.println(i);
+//            }
+//            i++;
+//        }
+//       long end = System.currentTimeMillis();
+//       long result = end - start;
+//        System.out.println("Thời gian " + result);
 
 //
             // Dùng while in số chẳn từ 1 -> 100
 
+        int a = 10;
+        do {
+            System.out.println("xử lý");
+            System.out.println("Giá trị của a = " + a);
+            a++;
+        }while (a < 20);
+            System.out.println("tiếp tục");
         }
+
     }
