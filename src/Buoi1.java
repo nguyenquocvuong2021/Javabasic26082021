@@ -285,13 +285,26 @@ public class Buoi1 {
 //
             // Dùng while in số chẳn từ 1 -> 100
 
-        int a = 10;
-        do {
-            System.out.println("xử lý");
-            System.out.println("Giá trị của a = " + a);
-            a++;
-        }while (a < 20);
-            System.out.println("tiếp tục");
-        }
+        // *************14/9/2021**********************
+        //Do while
+//        int a = 10;
+//        do {
+//            System.out.println("xử lý");
+//            System.out.println("Giá trị của a = " + a);
+//            a++;
+//        }while (a < 20);
+//            System.out.println("tiếp tục");
+//        }
+        // Nhóm đối tượng solid
+        //https://toidicodedao.com/2015/03/24/solid-la-gi-ap-dung-cac-nguyen-ly-solid-de-tro-thanh-lap-trinh-vien-code-cung/
+//        1.Single responsibility principle
+//        2. Open/closed principle
+//        3. Liskov Substitution Principle
+//        4. Interface Segregation Principle
+//        5. Dependency inversion principle
+        // Tính năng => Inversion of control
+        // Tính năng trung gian Abstraction (kết nối từ a - b)
+
+
 
     }
